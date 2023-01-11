@@ -4,4 +4,8 @@
 Low-cost electric fencing scoring box. This circuit is memory optimised and ment to be uploaded to an ATTINY84 et al chip with an Arduino as ISP. Alongside this code, there is a custom PCB whose fabrication files can also be found on this GitHub.   
 
 # 2 Uploading the code to the chip
-BURN THE BOOTLOADER TO SET FUSES CORRECTLY. If you dont, clock speeds and other stuff will be wrong. To upload the code to the chip simply connect the Arduino (with the Arduino as ISP script previously loaded on it) as the following image shows:
+For a proper guide please visit: https://docs.arduino.cc/built-in-examples/arduino-isp/ArduinoISP.
+
+BURN THE BOOTLOADER TO SET FUSES CORRECTLY. If you dont, clock speeds and other stuff will be wrong (this is particularly crucial for the LED screen as pulse timings need to be very precise). To upload the code to the chip simply connect the Arduino (with the Arduino as ISP script previously loaded on it) connecting 
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)

@@ -11,3 +11,6 @@ BURN THE BOOTLOADER TO SET FUSES CORRECTLY. If you dont, clock speeds and other 
 ![This is an image](https://github.com/acroscarrillo/FencingBox/blob/main/readme_files/ICSP_explanation.png)
 
 Once the wiring is done BURN THE BOOTLOADER and THEN upload the board's program through the writer arduino.
+
+
+# 3 Wiring of the different components of the board

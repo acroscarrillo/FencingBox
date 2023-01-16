@@ -14,3 +14,5 @@ Once the wiring is done BURN THE BOOTLOADER and THEN upload the board's program 
 
 
 # 3 Wiring of the different components of the board
+![This is an image](https://github.com/acroscarrillo/FencingBox/blob/main/readme_files/schematic_diagram.PNG)
+

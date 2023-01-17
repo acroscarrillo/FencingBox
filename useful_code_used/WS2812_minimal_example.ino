@@ -11,18 +11,29 @@ uint8_t foil_symbol_array[] = {
 };
 
 void setup() {
-	LED.setOutput(0);   // Led array/strip data wire 
+  LED.setOutput(PCINT20);   // Led array/strip data wire 
   LED.setColorOrderGRB();   // Led color arrangement. Some led drivers use RGB convention...etc.
   displayReset();  //function defined below that turns all leds off
 }
 
 void loop() {
+// one_led();
 foil_logo();   // Method defined bellow to draw message "Foil"
 delay(500);
 displayReset();
 displayHitOnTarB(); // Method defined bellow to signal a hit on target from fencer B
 delay(500);
 displayReset();
+}
+
+// Method to signal a hit on target from fencer B
+void one_led() {
+  value.b = 0;
+  value.g = 1; 
+  value.r = 0;       
+  LED.set_crgb_at(0, value);                  
+  LED.sync(); // Sends the value to the LED
+  delay(10); // Wait (ms)
 }
 
 // Method to signal a hit on target from fencer B

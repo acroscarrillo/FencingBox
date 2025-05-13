@@ -24,7 +24,7 @@ Once the wiring is done BURN THE BOOTLOADER and THEN upload the board's program 
 
 ## PCB wiring design:
 
-![This is an image](https://github.com/acroscarrillo/FencingBox/blob/main/readme_filespcb_wiring_design.jpeg |  height = 100px)
+![This is an image](https://github.com/acroscarrillo/FencingBox/blob/main/readme_files/pcb_wiring_design.jpeg)
 
 
 ## Manufactured PCB:

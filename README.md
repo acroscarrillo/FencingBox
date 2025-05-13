@@ -15,16 +15,13 @@ Once the wiring is done BURN THE BOOTLOADER and THEN upload the board's program 
 
 # 3 Wiring of the different components of the board
 ## An overview of the board's schematic:
-
 ![This is an image](https://github.com/acroscarrillo/FencingBox/blob/main/readme_files/schematic_diagram.PNG)
 
 ## A close up of the chip's schematic:
-
 ![This is an image](https://github.com/acroscarrillo/FencingBox/blob/main/readme_files/chip_wiring.PNG)
 
 ## PCB wiring design:
-
-![This is an image](https://github.com/acroscarrillo/FencingBox/blob/main/readme_files/pcb_wiring_design.jpeg)
+![This is an image](https://github.com/acroscarrillo/FencingBox/blob/main/readme_files/pcb_wiring_design.png)
 
 
 ## Manufactured PCB:

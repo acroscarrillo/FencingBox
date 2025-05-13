@@ -65,7 +65,7 @@ The screen on a hinge posed the classic problem of what to do with the wires, he
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/acroscarrillo/FencingBox/main/readme_files/hinge.png"
-    alt="Manufactured PCB"
+    alt="Hinge"
     width="600"
   />
 </p>

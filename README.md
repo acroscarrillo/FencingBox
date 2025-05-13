@@ -10,8 +10,8 @@ BURN THE BOOTLOADER TO SET FUSES CORRECTLY. If you dont, clock speeds and other 
 
 <p align="center">
   <img
-    src="[https://raw.githubusercontent.com/acroscarrillo/FencingBox/main/readme_files/schematic_diagram.PNG](https://github.com/acroscarrillo/FencingBox/blob/main/readme_files/ICSP_explanation.png)"
-    alt="ICSP explanation."
+    src="https://raw.githubusercontent.com/acroscarrillo/FencingBox/main/readme_files/schematic_diagram.PNG"
+    alt="ICSP explanation"
     width="600"
   />
 </p>

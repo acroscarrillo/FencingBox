@@ -59,13 +59,22 @@ Once the wiring is done BURN THE BOOTLOADER and THEN upload the board's program 
 </p>
 
 # 5 Product design
-Let's see the final product design.
+Let's see the final product design, in this case I went for a simple 32x32 matrix LED screen.
 ## - Screen hinge prototype
 The screen on a hinge posed the classic problem of what to do with the wires, here's a small prototype I made of the hinge and the wires passing through.
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/acroscarrillo/FencingBox/main/readme_files/hinge.png"
     alt="Hinge"
+    width="600"
+  />
+</p>
+
+## - Final product
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/acroscarrillo/FencingBox/main/readme_files/finished_box.png"
+    alt="Final product"
     width="600"
   />
 </p>

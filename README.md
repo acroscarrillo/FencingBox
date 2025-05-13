@@ -8,7 +8,13 @@ For a proper guide please visit: https://docs.arduino.cc/built-in-examples/ardui
 
 BURN THE BOOTLOADER TO SET FUSES CORRECTLY. If you dont, clock speeds and other stuff will be wrong (this is particularly crucial for the LED screen as pulse timings need to be very precise). To upload the code to the chip simply select the writer arduino (master) and upload the Arduino as ISP script to it. Next connect the writer arduino to the target chip by connecting the MOSI, MISO, SCK, RESET  (and VCC and GND) pins in their respective pins, i.e. writer MOSI --- target MOSI and so on. Check the following image for the wiring details on the writer Arduino (the target board has a header with these pins labled).
 
-![This is an image](https://github.com/acroscarrillo/FencingBox/blob/main/readme_files/ICSP_explanation.png)
+<p align="center">
+  <img
+    src="[https://raw.githubusercontent.com/acroscarrillo/FencingBox/main/readme_files/schematic_diagram.PNG](https://github.com/acroscarrillo/FencingBox/blob/main/readme_files/ICSP_explanation.png)"
+    alt="ICSP explanation."
+    width="600"
+  />
+</p>
 
 Once the wiring is done BURN THE BOOTLOADER and THEN upload the board's program through the writer arduino.
 

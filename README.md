@@ -71,6 +71,7 @@ The screen on a hinge posed the classic problem of what to do with the wires, he
 </p>
 
 ## - Final product
+Final design with the fencing weapon ports on each side, laptop-like screen design and buttons on the back. The choice for the buttons on the back comes from a variety of reasons: first they get covered when stored to avoid accidental operation and second, it allows for them to be big and placed against the ground for easy manipulation with the weapon tip, removing the need of using the hand (inconvient in fencing gear).
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/acroscarrillo/FencingBox/main/readme_files/finished_box.png"

@@ -12,22 +12,45 @@ BURN THE BOOTLOADER TO SET FUSES CORRECTLY. If you dont, clock speeds and other 
 
 Once the wiring is done BURN THE BOOTLOADER and THEN upload the board's program through the writer arduino.
 
-
 # 3 Wiring of the different components of the board
+
 ## An overview of the board's schematic:
-![This is an image](https://github.com/acroscarrillo/FencingBox/blob/main/readme_files/schematic_diagram.PNG)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/acroscarrillo/FencingBox/main/readme_files/schematic_diagram.PNG"
+    alt="Board schematic overview"
+    width="600"
+  />
+</p>
 
 ## A close up of the chip's schematic:
-![This is an image](https://github.com/acroscarrillo/FencingBox/blob/main/readme_files/chip_wiring.PNG)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/acroscarrillo/FencingBox/main/readme_files/chip_wiring.PNG"
+    alt="Chip wiring close-up"
+    width="400"
+  />
+</p>
 
-# PCB manufacturing
+# 4 PCB manufacturing
+
 ## PCB wiring design:
-![This is an image](https://github.com/acroscarrillo/FencingBox/blob/main/readme_files/pcb_wiring_design.png)
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/acroscarrillo/FencingBox/main/readme_files/pcb_wiring_design.png"
+    alt="PCB wiring design"
+    width="600"
+  />
+</p>
 
 ## Manufactured PCB:
-
-![This is an image](https://github.com/acroscarrillo/FencingBox/blob/main/readme_files/pcb_picture.jpeg)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/acroscarrillo/FencingBox/main/readme_files/pcb_picture.jpeg"
+    alt="Manufactured PCB"
+    width="600"
+  />
+</p>
 
 # License
 For now, this project is an “All Rights Reserved” – no one has any right to use it without my express permission. See `LICENSE.md` file above.

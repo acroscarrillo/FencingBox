@@ -58,5 +58,18 @@ Once the wiring is done BURN THE BOOTLOADER and THEN upload the board's program 
   />
 </p>
 
+# 5 Product design
+Let's see the final product design.
+## - Screen hinge prototype
+The screen on a hinge posed the classic problem of what to do with the wires, here's a small prototype I made of the hinge and the wires passing through.
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/acroscarrillo/FencingBox/main/readme_files/hinge.png"
+    alt="Manufactured PCB"
+    width="600"
+  />
+</p>
+
+
 # License
 For now, this project is an “All Rights Reserved” – no one has any right to use it without my express permission. See `LICENSE.md` file above.

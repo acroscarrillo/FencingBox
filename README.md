@@ -28,7 +28,7 @@ Once the wiring is done BURN THE BOOTLOADER and THEN upload the board's program 
   <img
     src="https://raw.githubusercontent.com/acroscarrillo/FencingBox/main/readme_files/chip_wiring.PNG"
     alt="Chip wiring close-up"
-    width="400"
+    width="600"
   />
 </p>
 
